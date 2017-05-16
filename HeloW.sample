@@ -1,0 +1,5 @@
+# hello world v1
+
+main() {
+	out > 'hello w!'
+}
